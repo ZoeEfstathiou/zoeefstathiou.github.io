@@ -8,9 +8,9 @@ repository: "zoeefstathiou/zoeefstathiou.github.io"
 locale: "en-US"
 title: "Zoe Efstathiou"
 title_separator: "-"
-subtitle: "Machine Learning Blog & Portfolio"
+subtitle: "Machine Learning Blog"
 name: "Zoe Efstathiou"
-description: "Writing about machine learning, deep learning, and AI research — plus a portfolio of my projects."
+description: "Documenting my machine learning notes and projects."
 baseurl: ""
 
 # Theme
@@ -30,8 +30,8 @@ plugins:
 author:
   name: "Zoe Efstathiou"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "ML researcher and engineer. I write about machine learning, deep learning, and ideas I find fascinating."
-  location: "Greece"
+  bio: "ML researcher, Pianist and Composer. Fascinated with foundation models, interpretability, multimodality and machine learning for sound."
+  location: "Sweden/Norway"
   email: "zoiefstathiou@gmail.com"
   links:
     - label: "GitHub"
@@ -40,9 +40,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "#"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "#"
+    #- label: "Google Scholar"
+    #  icon: "fas fa-fw fa-graduation-cap"
+    #  url: "#"
 
 # Reading Files
 include:
